@@ -1,4 +1,10 @@
 
+.arimo-<uniquifier> {
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 :root {
     --primary-color: #4a90e2;      
     --secondary-color: #50c878;    
@@ -269,4 +275,5 @@ p a:hover, li a:hover {
         margin: 0;
         padding: 0;
     }
+
 }
